@@ -1,0 +1,13 @@
+/*
+ * Constants
+ *
+ * Keep colors and reusable theme values here.
+ */
+:root {
+  --theme-color-primary: brown(75, 53,37);
+  --theme-color-secondary: #1f2020;
+  --theme-color-primary:rgb (248, 243, 233)
+  --theme-color-accent: rgb (163,175,188)
+  --theme-color-accent: rgb(255,247,210)
+  --theme-transition: all 0.3s ease-in-out;
+}
